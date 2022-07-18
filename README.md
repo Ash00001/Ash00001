@@ -15,7 +15,7 @@ I have fundamental knowledge in Cybersecurity and Linux and I also like to do we
 - <b>Drum Game Website</b>
   - [Pratice website for Web Dvelopment](https://github.com/Ash00001/DRUMS-GAME)
 
-<h2>📺 Certifications</h2>
+<h2>🌱 Certifications</h2>
 
 - [CISCO Cybersecurity Essentials](https://www.credly.com/badges/383854f9-beeb-4abc-b8ab-5e0f6178d21a/public_url)
 - [CISCO Introduction To Cybersecurity](https://www.credly.com/badges/809a04f3-65d9-4447-b5dd-ccc75f8cbe08/public_url)
