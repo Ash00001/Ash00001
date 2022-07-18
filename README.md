@@ -7,11 +7,11 @@ I have fundamental knowledge in Cybersecurity and Linux and I also like to do we
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Research and Development (Niit University)</b>
-  - [RnD Project based on toplogy control in Wireless Sensor Netwoks](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [RnD Project based on toplogy control in Wireless Sensor Netwoks](https://github.com/Ash00001/RnD)
 - <b>Chatbot Application (React, NodeJS, Mongodb and Express)</b>
-  - [Chatbot Website for University Engagement Queries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Chatbot Website for University Engagement Queries](https://github.com/Ash00001/ChatBot-Project) 
 - <b>Collaboration App</b>
-  - [texting and Collaboration Application](https://github.com/joshmadakor1/EncrypterPOC)
+  - [texting and Collaboration Application](https://github.com/Ash00001/Collaboration-App)
 
 <h2>📺 Certifications</h2>
 
