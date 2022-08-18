@@ -19,7 +19,7 @@ I have fundamental knowledge in Cybersecurity and Linux and I also like to do we
 
 - [CISCO Cybersecurity Essentials](https://www.credly.com/badges/383854f9-beeb-4abc-b8ab-5e0f6178d21a/public_url)
 - [CISCO Introduction To Cybersecurity](https://www.credly.com/badges/809a04f3-65d9-4447-b5dd-ccc75f8cbe08/public_url)
-- [CEH (Certified Ethical Hacker)] (Currrently Pursuing)
+- [CEH (Certified Ethical Hacker)] (https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RpwDFoThXYcyxA0ZLMC3NHH+dcq3dvAdxMcsgwW0iLY=)
 - [CompTIA Security+](Currently Pursuing)
 
 <h2> 🤳 Connect with me:</h2>
